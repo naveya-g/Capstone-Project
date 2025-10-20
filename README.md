@@ -4,13 +4,13 @@ This project focuses on developing an AI-powered chatbot to assist with **indust
 
 ---
 
-### 📌 Project Objective
+###  Project Objective
 
 To design a chatbot that can analyze incident descriptions from manufacturing plants and highlight **potential safety risks** or **accident severity levels**. The chatbot helps safety professionals and factory workers assess critical risks in real-time by interpreting historical accident data.
 
 ---
 
-### 📂 Dataset Summary
+###  Dataset Summary
 
 - Accident records from **12 plants across 3 countries**
 - Each row represents a real accident occurrence
@@ -22,7 +22,7 @@ To design a chatbot that can analyze incident descriptions from manufacturing pl
 
 ---
 
-### 🧠 Approach
+### Approach
 
 - NLP preprocessing & data cleaning
 - Text augmentation using **GloVe word embeddings**
@@ -31,7 +31,7 @@ To design a chatbot that can analyze incident descriptions from manufacturing pl
 
 ---
 
-### 🤖 Deep Learning Models
+### Deep Learning Models
 
 To better understand and classify textual incident reports, multiple deep learning architectures were explored:
 
@@ -44,7 +44,7 @@ To better understand and classify textual incident reports, multiple deep learni
 
 ---
 
-### 🛠️ Technologies Used
+### Tools Used
 
 - Python, Pandas, NumPy
 - NLP: NLTK, SpaCy
